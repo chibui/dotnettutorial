@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAsync", "LearningAsync\LearningAsync.csproj", "{32CB8066-BE07-4162-B09F-3840FC59F2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CB8066-BE07-4162-B09F-3840FC59F2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CB8066-BE07-4162-B09F-3840FC59F2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CB8066-BE07-4162-B09F-3840FC59F2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CB8066-BE07-4162-B09F-3840FC59F2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE5E0990-F2AF-4352-8248-2A0D86008383}
+	EndGlobalSection
+EndGlobal
